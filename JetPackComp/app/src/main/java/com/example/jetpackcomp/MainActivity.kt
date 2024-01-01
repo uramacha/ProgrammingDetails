@@ -11,7 +11,7 @@ import com.example.jetpackcomp.ui.theme.JetPackCompTheme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.main_layout)
+        //setContentView(R.layout.main_layout)
     }
 }
 
